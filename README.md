@@ -5,8 +5,14 @@ Following contents are self practising python codes followed by the coursera cou
 The course is providing R codes, but I am trying to rerun same procedure using Python.
 Thus, the contents are going to present using R (from the course) and Python (by myself).
 
-## 1. 
+## 1. Basic descriptive and inferential statistics
 
+Five number summary, Standard Deviation, Histogram, and Scatter plot.
+Simple linear regression
+
+## 2. Describing a time series
+
+Time plots, (Weak) Stationarity, Autocovariance function and coefficients
 
 
 Coursera course is following link.
